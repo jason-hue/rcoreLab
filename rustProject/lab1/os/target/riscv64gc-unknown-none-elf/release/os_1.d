@@ -1,0 +1,1 @@
+/home/knifefire/rustProject/os_1/target/riscv64gc-unknown-none-elf/release/os_1: /home/knifefire/rustProject/os_1/src/console.rs /home/knifefire/rustProject/os_1/src/entry.asm /home/knifefire/rustProject/os_1/src/lang_items.rs /home/knifefire/rustProject/os_1/src/main.rs /home/knifefire/rustProject/os_1/src/sbi.rs

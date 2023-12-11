@@ -1,0 +1,1 @@
+/home/knifefire/rustProject/lab1/os/target/riscv64gc-unknown-none-elf/debug/os_1: /home/knifefire/rustProject/lab1/os/src/console.rs /home/knifefire/rustProject/lab1/os/src/entry.asm /home/knifefire/rustProject/lab1/os/src/lang_items.rs /home/knifefire/rustProject/lab1/os/src/main.rs /home/knifefire/rustProject/lab1/os/src/sbi.rs
